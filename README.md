@@ -7,7 +7,7 @@
 ## 🧑‍💻 Skills
 | Languages         | Frameworks & Libraries | Tools               |
 |-------------------|------------------------|---------------------|
-| JavaScript, Java, TypeScript, Golang, Python  | React, Node.js, Jest         | Git         |
+| JavaScript, Java, TypeScript, Golang  | React, Node.js, Jest         | Git         |
 
 ## 📌 Pinned Projects
 - [Racetrack Info Screens](https://github.com/jyrgenandessalu/Racetrack-info-screens): A real-time race management system
