@@ -1,16 +1,16 @@
-## Hi there 👋
+## # Hi, I'm Jürgen 👋
 
-<!--
-**jyrgenandessalu/jyrgenandessalu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 About Me
+- Passionate software developer from Estonia
+- Specializing in full-stack development and backend systems
 
-Here are some ideas to get you started:
+## 🧑‍💻 Skills
+| Languages         | Frameworks & Libraries | Tools               |
+|-------------------|------------------------|---------------------|
+| JavaScript, Java, TypeScript, Golang, Python  | React, Node.js         | Git, Docker         |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Pinned Projects
+- [Racetrack Info Screens](https://github.com/jyrgenandessalu/Racetrack-info-screens): A real-time race management system
+- [Movie Database](https://github.com/jyrgenandessalu/Movie-database): A RESTful API for managing movies
+
+- ⚡ Fun fact: Racecar backwards is racecar
