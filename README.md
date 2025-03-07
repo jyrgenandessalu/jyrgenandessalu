@@ -12,5 +12,6 @@
 ## 📌 Pinned Projects
 - [Racetrack Info Screens](https://github.com/jyrgenandessalu/Racetrack-info-screens): A real-time race management system
 - [Movie Database](https://github.com/jyrgenandessalu/Movie-database): A RESTful API for managing movies
+- [Delivery Calcultaor](https://github.com/jyrgenandessalu/delivery-calculator.git): A delivery calculator for food couriers.
 
 - ⚡ Fun fact: Racecar backwards is racecar
